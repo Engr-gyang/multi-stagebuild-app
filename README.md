@@ -1,7 +1,7 @@
 # My App
 
 This is a simple Node.js application built using Express. It demonstrates how to create a basic REST API with a single route (`/`) that returns a "Hello World!" message. The application is containerized using Docker with a multi-stage build process to optimize the final image.
-
+multi-stagebuild-app
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -24,9 +24,10 @@ To get started with this app locally, follow these steps:
 1. Clone this repository to your local machine:
 
     ```bash
-    https://github.com/Engr-gyang/multi-stagebuild-app.git
-
-    multi-stagebuild-app
+    git clone https://github.com/Engr-gyang/multi-stagebuild-app.git
+    
+cd multi-stagebuild-app
+>>>>>>> 562d904 ( updated the  README.md)
     ```
 
 2. Install the dependencies locally using npm:
