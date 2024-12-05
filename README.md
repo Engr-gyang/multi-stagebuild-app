@@ -24,9 +24,9 @@ To get started with this app locally, follow these steps:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/Engr-gyang/my-app.git
+    https://github.com/Engr-gyang/multi-stagebuild-app.git
 
-    cd my-app
+    multi-stagebuild-app
     ```
 
 2. Install the dependencies locally using npm:
